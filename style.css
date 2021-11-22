@@ -1,0 +1,23 @@
+html {
+  background-color: #7f00ae;
+}
+
+#work {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#work > iframe {
+  max-width: 699px;
+  height: 500px;
+  width: 100%;
+  padding: 0px;
+  border: 10px solid #ff3680;
+}
